@@ -31,7 +31,7 @@ export function HeroSection() {
           <div className="flex justify-center lg:justify-end mt-6 lg:mt-0">
             <div className="relative w-full max-w-[500px] aspect-square">
               <Image
-                src="/placeholder.svg?height=600&width=600"
+                src="/demo.jpg?height=600&width=600"
                 alt="Visa consultancy services"
                 fill
                 className="object-cover rounded-lg"
